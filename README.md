@@ -1,1 +1,17 @@
-# Yes-bank-Spark-Foundation
+Basic banking system
+This Repo showcases my project, that I've created for my Internship task at The Sparks Foundation.
+
+I'm hosting this project at WebHost. Only PC view is available for now.
+If you're using a mobile, please come back later as I'm adding CSS queries soon!
+
+Go to https://websitespark.000webhostapp.com/ to see this project live.
+
+How to start:
+Clone my repository or download the zip file
+If you're downloading the zip file, extract the zip file to a folder
+Open the folder with a code editor like VS Code or any IDE.
+Create two tables in a database - One to store user details and one to store transaction details.
+Create the necessery columns.
+Update my Config.php file with your database details.
+Run the code with XAAMP. You can reach out to me for queries. Details in my profile readme.
+Happy coding!
